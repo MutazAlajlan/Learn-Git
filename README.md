@@ -1,3 +1,5 @@
+<div dir="rtl" styyle="text-align:right">
+
 # عنوان المشروع:
 
 تعلم Git و Markdown
@@ -5,6 +7,8 @@
 # الوصف:
 
 شرح اوامر Git ومحاولة تلخيص دورة Git الموجودة في منصة طويق.
+
+</div>
 
 # Table of Contents:
 1. Ch01
@@ -53,6 +57,8 @@
     3. 03.md
 README.md
 
+<div dir="rtl" styyle="text-align:right">
+
 ### اسم المتدرب:
 معتز العجلان
 
@@ -61,3 +67,5 @@ README.md
 
 ### اسم المجموعة:
 السودة
+
+</div>
